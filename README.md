@@ -93,9 +93,11 @@ Answer -C) To separate project dependencies and avoid conflicts
 What is the first step to install MySQL on Windows?
 
 A) Download MySQL Shell
-B) Download MySQL Installer from the official website
+B) Downloadnload MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
+
+Answer -Downloadnload MySQL Installer from the official website 
 
 What setup type should you choose for a custom MySQL installation?
 
@@ -103,6 +105,7 @@ A) Developer Default
 B) Server Only
 C) Full
 D) Custom
+Answer-D Custom
 
 Which products should you select during the MySQL installation?
 
@@ -110,6 +113,7 @@ A) MySQL Server, MySQL Workbench, and MySQL Shell
 B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
+Answer-) MySQL Server, MySQL Workbench, and MySQL Shell
 
 What is the purpose of setting a root password during MySQL installation?
 
@@ -117,6 +121,7 @@ A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
+Answer -B) To secure your MySQL installation with a super-secret password
 
 How do you begin managing your database after installing MySQL?
 
